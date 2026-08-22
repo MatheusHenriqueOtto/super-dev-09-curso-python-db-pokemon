@@ -13,7 +13,6 @@ dist/
 
 # Variáveis de ambiente
 .env
-.env.*
 
 # Testes / cobertura
 .pytest_cache/
